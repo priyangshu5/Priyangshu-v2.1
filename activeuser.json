@@ -19,5 +19,12 @@
         "password": "pass124",
         "expirydate": "15-09-2025",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "94e6747a73a7697d",
+        "username": "GAVHINI",
+        "password": "GAVHINI123",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
+    },
 ]

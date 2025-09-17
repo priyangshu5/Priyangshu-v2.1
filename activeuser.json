@@ -40,6 +40,13 @@
         "password": "ABI1234",
         "expirydate": "1-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "03e1ec8f7d983880",
+        "username": "SURUJ",
+        "password": "SURUJ123",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
 ]
 
